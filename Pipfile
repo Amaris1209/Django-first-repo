@@ -1,0 +1,37 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "==2.2.26"
+cryptography = "*"
+djangorestframework = "*"
+boto3 = "*"
+django-environ = "*"
+django-storages = "*"
+psycopg2 = "*"
+waitress = "*"
+whitenoise = "*"
+django-bootstrap4 = "*"
+django-allauth = "*"
+django-rest-auth = "*"
+django-extensions = "*"
+packaging = "*"
+drf-yasg = "*"
+pyyaml = "*"
+pillow = "*"
+pytest = "*"
+factory-boy = "*"
+google-cloud-secret-manager = "*"
+google-cloud-storage = "*"
+google-auth = "*"
+djangorestframework-simplejwt = "*"
+dj-rest-auth = "*"
+django-rest-passwordreset = "*"
+environ = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
