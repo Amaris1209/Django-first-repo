@@ -59,14 +59,16 @@ INSTALLED_APPS = [
     'django_rest_passwordreset',
     'home',
     'users',
+    'gari_wala',
+    'insaan',
 ]
 
 # LOCAL_APPS= [
 
 # #    'feedback',
 #     # 'address',
-#   #   'driver',
-#   #'passenger',
+#   #   'gari_wala',
+#   #'insaan',
 #  #   'allUsers',
 #   #  'static'
 # ]
